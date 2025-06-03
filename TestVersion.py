@@ -1,7 +1,8 @@
 # Set the version of Pmw to use for the tests based on the directory
 # name.
 
-import importlib
+#import importlib
+import importlib.util
 import os
 import string
 import Pmw

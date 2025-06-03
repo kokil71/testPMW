@@ -1,6 +1,7 @@
 # Functions used by widget tests.
 
-import importlib
+#import importlib
+import importlib.util
 import os
 import re
 import string
