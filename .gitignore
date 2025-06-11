@@ -173,5 +173,17 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Á¦¿Ü
+# Me
 *.bak
+*.hwp
+*.dwg
+*.txt
+*.mp4
+*.avi
+*.mpeg
+*.srt
+*.pdf
+[AutoCAD]/
+[OpenCV]/
+build/
+dist/
